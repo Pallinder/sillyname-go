@@ -5,6 +5,12 @@ Random (silly) name generator for Golang.
 
 Based on https://github.com/thedeveloper/sillyname
 
+###Installation
+```
+go get github.com/Pallinder/sillyname-go
+```
+
+
 ###Usage example
 
 ```go
