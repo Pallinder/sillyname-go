@@ -5,13 +5,13 @@ Random (silly) name generator for Golang.
 
 Based on https://github.com/thedeveloper/sillyname
 
-###Installation
+### Installation
 ```
 go get github.com/Pallinder/sillyname-go
 ```
 
 
-###Usage example
+### Usage example
 
 ```go
 package main
@@ -25,7 +25,7 @@ func main() {
 	fmt.Println(sillyname.GenerateStupidName())
 }
 ```
-###Example output:
+### Example output:
 * Stoneballistic Hoof
 * Crystalskitter Kitten
 * Voleshallow Carver
